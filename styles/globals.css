@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+img {
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
