@@ -72,4 +72,4 @@ const description =
   "A simple example of how to upload a file to IPFS and get a URL back.";
 const button = "Get random image from Unsplash";
 const buttonipfs = "Send image to IPFS";
-const GitHubURL = "github.com/raufsamestone/url-to-ipfs";
+const GitHubURL = "https://github.com/raufsamestone/url-to-ipfs";
